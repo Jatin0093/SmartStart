@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "78290700015",
+    "project_id": "smartstartauth",
+    "storage_bucket": "smartstartauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78290700015:android:8d20c3a7b495e26803bd1a",
+        "android_client_info": {
+          "package_name": "com.example.smartstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78290700015-otrh9klm63i9sqvs8ol2ci0g4sh2ii82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartstart",
+            "certificate_hash": "032fe5df355d5c3852dca3ac0526c96aba2fec66"
+          }
+        },
+        {
+          "client_id": "78290700015-950u3ku9hogqeeio95ar1h60j00o0g9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTgjsB8y30zokAna_gM6YhbFHhAK9xrHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78290700015-950u3ku9hogqeeio95ar1h60j00o0g9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
